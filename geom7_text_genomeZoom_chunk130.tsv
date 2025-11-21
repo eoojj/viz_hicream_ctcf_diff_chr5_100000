@@ -1,0 +1,26 @@
+group	label	showSelected1
+1	Cluster 2: 622/5199 pixels shown, logFC -4.4 to 4.4, log10(p) 0.0 to 2.5	2
+1	Cluster 27: 442/15035 pixels shown, logFC -4.2 to 3.6, log10(p) 0.0 to 2.0	27
+1	Cluster 56: 16/17187 pixels shown, logFC -3.5 to 4.4, log10(p) 0.0 to 2.3	56
+1	Cluster 145: 737/2629 pixels shown, logFC -3.5 to 4.4, log10(p) 0.0 to 2.3	145
+1	Cluster 165: 140/697 pixels shown, logFC -4.2 to 4.2, log10(p) 0.0 to 2.7	165
+1	Cluster 366: 38/121 pixels shown, logFC -3.1 to 2.8, log10(p) 0.0 to 1.0	366
+1	Cluster 440: 14/126 pixels shown, logFC -3.5 to 3.3, log10(p) 0.0 to 1.2	440
+1	Cluster 480: 129/140 pixels shown, logFC -3.8 to 3.3, log10(p) 0.0 to 1.5	480
+1	Cluster 533: 41/41 pixels shown, logFC -3.1 to 2.8, log10(p) 0.0 to 1.0	533
+1	Cluster 717: 301/310 pixels shown, logFC -4.0 to 2.8, log10(p) 0.0 to 1.7	717
+1	Cluster 1010: 12/52 pixels shown, logFC -3.1 to 0.9, log10(p) 0.0 to 1.0	1010
+1	Cluster 1118: 12/22 pixels shown, logFC 0.2 to 3.3, log10(p) 0.0 to 1.1	1118
+1	Cluster 1164: 39/39 pixels shown, logFC -3.8 to 1.8, log10(p) 0.0 to 1.5	1164
+1	Cluster 1190: 7/126 pixels shown, logFC -3.1 to 2.0, log10(p) 0.0 to 1.0	1190
+1	Cluster 1224: 33/33 pixels shown, logFC -3.8 to 2.0, log10(p) 0.1 to 1.5	1224
+1	Cluster 1288: 18/18 pixels shown, logFC -3.1 to 0.2, log10(p) 0.0 to 1.0	1288
+1	Cluster 1433: 25/190 pixels shown, logFC -3.5 to 3.3, log10(p) 0.0 to 1.2	1433
+1	Cluster 1739: 25/36 pixels shown, logFC -3.8 to 0.2, log10(p) 0.0 to 1.5	1739
+1	Cluster 2010: 4/4 pixels shown, logFC -3.1 to -1.8, log10(p) 0.4 to 1.0	2010
+1	Cluster 2187: 23/23 pixels shown, logFC -0.6 to 3.6, log10(p) 0.0 to 1.4	2187
+1	Cluster 2261: 1/58 pixels shown, logFC -3.8 to 2.8, log10(p) 0.0 to 1.5	2261
+1	Cluster 2436: 8/10 pixels shown, logFC -2.6 to -1.8, log10(p) 0.4 to 0.7	2436
+1	Cluster 2987: 18/18 pixels shown, logFC -2.6 to -0.6, log10(p) 0.2 to 0.7	2987
+1	Cluster 3087: 3/15 pixels shown, logFC 0.7 to 3.3, log10(p) 0.2 to 1.1	3087
+1	Cluster 3144: 23/23 pixels shown, logFC -3.1 to -1.5, log10(p) 0.4 to 1.0	3144

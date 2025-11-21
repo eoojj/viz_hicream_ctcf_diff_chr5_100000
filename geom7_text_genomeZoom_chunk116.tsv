@@ -1,0 +1,26 @@
+group	label	showSelected1
+1	Cluster 2: 1/5199 pixels shown, logFC -4.4 to 4.4, log10(p) 0.0 to 2.5	2
+1	Cluster 27: 814/15035 pixels shown, logFC -4.2 to 3.6, log10(p) 0.0 to 2.0	27
+1	Cluster 56: 1167/17187 pixels shown, logFC -3.5 to 4.4, log10(p) 0.0 to 2.3	56
+1	Cluster 109: 131/3955 pixels shown, logFC -4.4 to 4.6, log10(p) 0.0 to 2.6	109
+1	Cluster 132: 170/386 pixels shown, logFC -3.5 to 3.3, log10(p) 0.0 to 1.2	132
+1	Cluster 258: 24/93 pixels shown, logFC -3.1 to 2.8, log10(p) 0.0 to 1.0	258
+1	Cluster 324: 156/156 pixels shown, logFC -2.6 to 3.3, log10(p) 0.0 to 1.1	324
+1	Cluster 388: 20/20 pixels shown, logFC -2.6 to 2.8, log10(p) 0.0 to 0.8	388
+1	Cluster 440: 62/126 pixels shown, logFC -3.5 to 3.3, log10(p) 0.0 to 1.2	440
+1	Cluster 573: 82/294 pixels shown, logFC -3.1 to 3.3, log10(p) 0.0 to 1.1	573
+1	Cluster 1165: 63/83 pixels shown, logFC -3.5 to 2.8, log10(p) 0.0 to 1.2	1165
+1	Cluster 1316: 42/42 pixels shown, logFC -3.5 to 0.2, log10(p) 0.0 to 1.2	1316
+1	Cluster 1399: 19/19 pixels shown, logFC -3.5 to 0.2, log10(p) 0.0 to 1.2	1399
+1	Cluster 1759: 2/10 pixels shown, logFC 0.5 to 3.3, log10(p) 0.2 to 1.1	1759
+1	Cluster 2031: 14/14 pixels shown, logFC -2.6 to 0.9, log10(p) 0.3 to 0.7	2031
+1	Cluster 2134: 5/5 pixels shown, logFC -2.6 to 0.2, log10(p) 0.0 to 0.7	2134
+1	Cluster 2509: 1/6 pixels shown, logFC -2.6 to 0.1, log10(p) 0.0 to 0.7	2509
+1	Cluster 2582: 17/17 pixels shown, logFC 0.2 to 3.3, log10(p) 0.0 to 1.1	2582
+1	Cluster 2680: 6/6 pixels shown, logFC -2.6 to 0.2, log10(p) 0.0 to 0.7	2680
+1	Cluster 2755: 4/4 pixels shown, logFC -1.8 to -1.8, log10(p) 0.4 to 0.4	2755
+1	Cluster 2791: 3/32 pixels shown, logFC -3.1 to -0.6, log10(p) 0.2 to 1.0	2791
+1	Cluster 2829: 13/13 pixels shown, logFC -2.6 to -0.6, log10(p) 0.2 to 0.7	2829
+1	Cluster 2830: 8/8 pixels shown, logFC -3.1 to -1.8, log10(p) 0.4 to 1.0	2830
+1	Cluster 3018: 12/12 pixels shown, logFC -0.6 to 2.8, log10(p) 0.0 to 0.8	3018
+1	Cluster 3156: 8/8 pixels shown, logFC -3.1 to -1.8, log10(p) 0.4 to 1.0	3156
